@@ -4,7 +4,6 @@
 /**
  * main - Entry point
  * @n: first operand
- *
  * Return: Always (0)
  */
 int main(void)
